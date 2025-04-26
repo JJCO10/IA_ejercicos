@@ -1,0 +1,12 @@
+[
+    {"X": 0, "Y": 0, "Z": 0, "Capa de salida": 1.0}, 
+    {"X": 0.5, "Y": 0.5, "Z": 0.5, "Capa de salida": 1.3794}, 
+    {"X": 1, "Y": 1, "Z": 1, "Capa de salida": 2.3403}, 
+    {"X": 0, "Y": 0.5, "Z": 1, "Capa de salida": 1.1205}, 
+    {"X": 3.14159, "Y": 0, "Z": 1, "Capa de salida": 3.0}, 
+    {"X": 0, "Y": 3.14159, "Z": -1, "Capa de salida": 0.0}, 
+    {"X": 1.5708, "Y": 1.5708, "Z": 0, "Capa de salida": 1.0}, 
+    {"X": 2, "Y": 2, "Z": 1, "Capa de salida": 3.0909}, 
+    {"X": 0, "Y": 0, "Z": 1, "Capa de salida": 2.1585}, 
+    {"X": 0.7854, "Y": 0.7854, "Z": 1, "Capa de salida": 2.9142}
+]

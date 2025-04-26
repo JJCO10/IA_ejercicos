@@ -1,0 +1,12 @@
+[
+    {"X1": 0, "X2": 0, "X3": 0, "X4": 0, "Capa de salida": 0},
+    {"X1": 1, "X2": 1, "X3": 1, "X4": 1, "Capa de salida": 1},
+    {"X1": 1, "X2": 1, "X3": 1, "X4": 0, "Capa de salida": 1},
+    {"X1": 0, "X2": 0, "X3": 0, "X4": 1, "Capa de salida": 0},
+    {"X1": 0, "X2": 1, "X3": 1, "X4": 0, "Capa de salida": 1},
+    {"X1": 0, "X2": 1, "X3": 1, "X4": 1, "Capa de salida": 1},
+    {"X1": 0, "X2": 0, "X3": 1, "X4": 0, "Capa de salida": 0},
+    {"X1": 0, "X2": 0, "X3": 1, "X4": 1, "Capa de salida": 1},
+    {"X1": 1, "X2": 0, "X3": 1, "X4": 1, "Capa de salida": 1},
+    {"X1": 1, "X2": 0, "X3": 1, "X4": 0, "Capa de salida": 1}
+]
